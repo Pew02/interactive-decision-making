@@ -1,3 +1,3 @@
 <h1>測驗</h1>
 
-測驗請點這裡：https://pew02.github.io/interactive-decision-making/20260722＿int-game.html
+測驗請點這裡：https://pew02.github.io/interactive-decision-making/20260730_int-game.html
